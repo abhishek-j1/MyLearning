@@ -1,6 +1,7 @@
 #inlucde <stdio.h>
 
-main()
+int main()
 {
-printf("\n %s","Hello world!");
+  printf("\n %s","Hello world!");
+  return 0;
 }
